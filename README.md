@@ -29,7 +29,7 @@ This project is an Express.js-based application for managing stock portfolios. I
    Ensure you have MongoDB installed and running locally or provide a remote database URI in your environment variables:
 
    ```env
-   PORT=6000
+   PORT=4000
    MONGO_URI=mongodb://localhost:27017/portfolio
    ```
 
